@@ -1,1 +1,1 @@
-# startup_script
+# Startup script for new servers
